@@ -100,4 +100,4 @@ Additional Notes
 *   This project uses NestJS, Mongoose, and RabbitMQ. Ensure all dependencies are up to date.
     
 
-Feel free to reach out if you have any questions or issues. Happy coding!
+Feel free to reach out if you have any questions or issues!

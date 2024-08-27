@@ -17,7 +17,7 @@ Setup Instructions
 
 To get started with the Invoice Report System, follow these steps:
 
-1.  git clone `https://github.com/your-repository/invoice-report-system.git`
+1.  `git clone https://github.com/your-repository/invoice-report-system.git`
     
 2.  `cd invoice-report-system`
     

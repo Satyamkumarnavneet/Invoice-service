@@ -91,7 +91,7 @@ Additional Notes
         
     *   rabbitmq/: Contains RabbitMQ-related modules and services.
         
-*   Ensure that your tests are correctly set up in the test/ directory. Run tests using the command:bashCopy codenpm run test
+*   Ensure that your tests are correctly set up in the test/ directory. Run tests using the `npm run test`
     
 *   The application connects to MongoDB. Make sure MongoDB is properly configured and running.
     

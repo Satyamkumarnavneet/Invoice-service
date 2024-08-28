@@ -23,7 +23,7 @@ To get started with the Invoice Report System, follow these steps:
     
 3.  Ensure you have Node.js installed. Install the necessary packages using npm: `npm install`
     
-4.  Make sure you have a .env file in the root directory. If not, create one and add the required environment `variables:envCopy codeMONGO\_URI=mongodb://localhost/nest`
+4.  Make sure you have a .env file in the root directory. If not, create one and add the required environment.
     
 5.  Ensure that MongoDB is running on your local machine or configure it according to your setup.
     
